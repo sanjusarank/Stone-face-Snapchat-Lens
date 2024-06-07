@@ -1,0 +1,135 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            [
+                "1702443746869513:2345031"
+            ]
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1702443353050049:2343522"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Moai",
+                    "Meshes"
+                ],
+                [
+                    "Moai",
+                    "Meshes",
+                    "moai"
+                ],
+                [
+                    "Moai",
+                    "Moai"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "source"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "source",
+                    "Moai"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "source",
+                    "Moai",
+                    "Meshes"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "source",
+                    "Moai",
+                    "Meshes",
+                    "moai"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "source",
+                    "Moai",
+                    "Moai"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "source",
+                    "Moai.fbm"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "textures"
+                ],
+                [
+                    "psx-low-poly-moai",
+                    "textures",
+                    "Final"
+                ],
+                [
+                    "sea-beach"
+                ],
+                [
+                    "white"
+                ],
+                [
+                    "white 2"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1702443338307898:2343461": "E:/SNAP LENS/stone head/psx-low-poly-moai/source/Moai.fbx",
+            "1702443352836994:2343474": "C:/Users/SANJU SARAN/AppData/Local/Snap/Lens Studio/cache/temp/StudiomoxloOWIUoNL//system//emergencyFiles/emergencyMesh.mesh",
+            "1702443352888128:2343488": "C:/Users/SANJU SARAN/AppData/Local/Snap/Lens Studio/cache/temp/StudiomoxloOWIUoNL//system//emergencyFiles/emergencyJpg.jpg",
+            "1702443352966408:2343503": "C:/Users/SANJU SARAN/AppData/Local/Snap/Lens Studio/cache/temp/StudiomoxloOWIUoNL//system//emergencyFiles/emergencyJpg.jpg",
+            "1702443353894103:2343555": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle/materials/textures/white.png",
+            "1702443710264045:2344181": "E:/SNAP LENS/stone head/psx-low-poly-moai/source/Moai.fbm/Final.png",
+            "1702443710316806:2344191": "E:/SNAP LENS/stone head/psx-low-poly-moai/source/Moai.fbm/Normal.png",
+            "1702443710359534:2344200": "E:/SNAP LENS/stone head/psx-low-poly-moai/source/Moai.fbx",
+            "1702443714279658:2344213": "C:/Users/SANJU SARAN/AppData/Local/Snap/Lens Studio/cache/temp/StudiomoxloOWIUoNL//system//emergencyFiles/emergencyMesh.mesh",
+            "1702443714892581:2344266": "C:/Program Files/Snap Inc/Lens Studio//Studio3DResources.bundle/materials/textures/white.png",
+            "1702443715108719:2344582": "E:/SNAP LENS/stone head/psx-low-poly-moai/textures/Final.png",
+            "1702444395733731:2397385": "E:/SNAP LENS/banana face/sea-beach.jpg"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "101:100"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}
